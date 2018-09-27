@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Simple Geometry</string>
+    <string name="play_btn">Play</string>
+    <string name="settings_btn">Settings</string>
+    <string name="lvl_number"># %d</string>
+    <string name="imv_content_status">Level status</string>
+    <string name="answer_hint">Your answer</string>
+    <string name="next_lvl_btn">Next level</string>
+    <string name="choose_lvl_btn">Back to levels</string>
+    <string name="dialog_title">Well Done!!!</string>
+    <string name="dialog_clear_btn">CLEAR</string>
+    <string name="hello">Hello</string>
+    <string name="alert_dialog_image">Image for alert dialog</string>
+    <string name="alert_dialog_btn_finish">Thanks)</string>
+    <string name="shirt_tutorial">This game is about attentiveness and ability to count. Just look at the picture and write the correct number of geometric shapes on the screen. Good luck !!!</string>
+</resources>
